@@ -5,7 +5,7 @@ This GitHub repository is for all the analysis, code, data and collaboration on 
 
 ## Copyright
 
-The script in this rep can be freely used and shared as long as the author and copyright information in the header remains intact and proper citation of this work is mentioned.
+The script in this repo can be freely used and shared as long as the author and copyright information in the header remains intact and proper citation of this work is mentioned.
 
 ## Jacobi Priors: An Alternate Bayesian Method for Supervised Learning
 
