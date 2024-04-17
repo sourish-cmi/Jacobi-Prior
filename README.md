@@ -18,5 +18,16 @@ This paper can be found here [...]
 + Experiment 3
 + Experiment 4
 
+#### Empirical Study
+
+**Galaxies, Quasars, and Stars: Three Class Classification**
+
++ EDA SDSS Star Datasets 
++ SDSS Star Classification
+
+**Loan Approved or Denied**
+
++ Probability of Default Models
+
 
 
