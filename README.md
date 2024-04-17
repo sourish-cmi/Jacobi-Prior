@@ -27,7 +27,7 @@ This paper can be found here [...]
 
 **Loan Approved or Denied**
 
-+ Probability of Default Models
++ Probability of Default Models for US Small Bussiness Administrators Data
 
 
 
