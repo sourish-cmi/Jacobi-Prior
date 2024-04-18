@@ -9,7 +9,7 @@ The script in this repo can be freely used and shared as long as the author and 
 
 ## Jacobi Prior: An Alternate Bayesian Method for Supervised Learning
 
-This paper can be found here [...]
+This paper can be found here [https://arxiv.org/abs/2404.11345]
 
 #### Simulation Study
 
