@@ -13,7 +13,7 @@ This paper can be found here [...]
 
 #### Simulation Study
 
-+ Experiment 1
++ (Experiment 1)[https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_1_simlulation_for_binom_reg.html]
 + Experiment 2
 + Experiment 3
 + Experiment 4
