@@ -1,4 +1,4 @@
-# Jacobi Priors: An Alternate Bayesian Method 
+# Jacobi Prior: An Alternate Bayesian Method 
 
 This GitHub repository is for all the analysis, code, data and collaboration on the research for '**Jacobi Prior**'.
 
@@ -16,7 +16,7 @@ This paper can be found here [...]
 + [Experiment 1](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_1_simlulation_for_binom_reg.html)
 + [Experiment 2](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_2_simlulation_for_binom_reg.html)
 + [Experiment 3](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_3_simlulation_for_Poisson_reg.html)
-+ Experiment 4
++ [Experiment 4](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_4_simulation_for_Multinomial_Reg.html)
 
 #### Empirical Study
 
