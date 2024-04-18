@@ -7,7 +7,7 @@ This GitHub repository is for all the analysis, code, data and collaboration on 
 
 The script in this repo can be freely used and shared as long as the author and copyright information in the header remains intact and proper citation of this work is mentioned.
 
-## Jacobi Priors: An Alternate Bayesian Method for Supervised Learning
+## Jacobi Prior: An Alternate Bayesian Method for Supervised Learning
 
 This paper can be found here [...]
 
@@ -22,12 +22,12 @@ This paper can be found here [...]
 
 **Galaxies, Quasars, and Stars: Three Class Classification**
 
-+ EDA SDSS Star Datasets 
-+ SDSS Star Classification
++ [EDA SDSS Star Datasets](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/SDSS_star_dataset_EDA.html) 
++ [SDSS Star Classification](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/SDSS_star_classification_model.html)
 
 **Loan Approved or Denied**
 
-+ Probability of Default Models for US Small Bussiness Administrators Data
++ [Probability of Default Models for US Small Bussiness Administrators' Data](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/USA_SBA_Loan_Approve.html)
 
 
 
