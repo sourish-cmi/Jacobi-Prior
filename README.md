@@ -7,9 +7,17 @@ This GitHub repository is for all the analysis, code, data and collaboration on 
 
 The script in this repo can be freely used and shared as long as the author and copyright information in the header remains intact and proper citation of this work is mentioned.
 
-## Jacobi Prior: An Alternate Bayesian Method for Supervised Learning
+## Current Paper:
+
+**Jacobi Prior: An Alternate Bayesian Method for Supervised Learning**
 
 This paper can be found here [https://arxiv.org/abs/2404.11345]
+
+## First Paper:
+
+**On Bayesian Analysis of Generalized Linear Models using the Jacobian Technique**, By Das, S. and Dey, D.; *The American Statistician*, Vol 60, No 3 (Aug 2006), pp. 264--268
+
+The paper can be found [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/main/1_2006_das_dey.pdf)
 
 #### Simulation Study
 
