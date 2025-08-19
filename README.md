@@ -28,7 +28,9 @@ The paper can be found [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/m
 + [Experiment 3 : Version Date (2025-08-02)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/exp_3_simlulation_for_Poisson_reg_20250802.html) Count Regression
 + [Experiment 4 : Version Date (2023-12-04)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_4_simulation_for_Multinomial_Reg.html) K-Class Classification
 + [Experiment 6 : Version Date (2025-07-11)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/exp_6_robustness_study_binom_reg_20250711.html)
-+ 
++ [Experiment 7 : Version Date (2025-08-04)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/exp_7_robustness_for_Poisson_reg_20250804.html)
+
+  
 #### Older version
 
 + [Experiment 1 : Version Date (2024-04-30)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_1_simlulation_for_binom_reg.html) Binary Classification
