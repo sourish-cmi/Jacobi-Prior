@@ -1,4 +1,4 @@
-  # Jacobi Prior: An Alternate Bayesian Method 
+# Jacobi Prior: An Alternate Bayesian Method 
 
 This GitHub repository is for all the analysis, code, data and collaboration on the research for '**Jacobi Prior**'.
 
@@ -9,7 +9,7 @@ The script in this repo can be freely used and shared as long as the author and 
 
 ## Current Paper:
 
-**Jacobi Prior: An Alternate Bayesian Method for Supervised Learning**
+**Jacobi Prior: An Alternate Bayesian Method for Supervised Learning**, By Das, S. and Sardar, S.; [Preprint](https://arxiv.org/abs/2404.11345)
 
 This paper can be found here [https://arxiv.org/abs/2404.11345]
 
