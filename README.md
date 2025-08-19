@@ -1,4 +1,4 @@
-# Jacobi Prior: An Alternate Bayesian Method 
+  # Jacobi Prior: An Alternate Bayesian Method 
 
 This GitHub repository is for all the analysis, code, data and collaboration on the research for '**Jacobi Prior**'.
 
@@ -26,7 +26,7 @@ The paper can be found [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/m
 + [Experiment 2 : Version Date (2024-01-24)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_2_simlulation_for_binom_reg.html) Statistical Consistency
 + [Experiment 3 : Version Date (2025-08-02)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/exp_3_simlulation_for_Poisson_reg_20250802.html) Count Regression
 + [Experiment 3 : Version Date (2023-12-04)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_3_simlulation_for_Poisson_reg.html) Count Regression
-+ [Experiment 4](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_4_simulation_for_Multinomial_Reg.html)
++ [Experiment 4 : Version Date (2023-12-04)](https://htmlpreview.github.io/?https://github.com/sourish-cmi/Jacobi-Prior/blob/main/experiment_4_simulation_for_Multinomial_Reg.html) K-Class Classification
 
 #### Empirical Study
 
