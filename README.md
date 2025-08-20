@@ -39,8 +39,8 @@ The paper can be found [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/m
 
 ### Empirical Study
 
-**
-+ [RSNA 2024 - Lumbar_Spine_Degenerative Classification Challenge](Lumbar_Spine_MRI_Analysis.ipynb)
+**RSNA 2024 - Lumbar_Spine_Degenerative Classification Challenge**
++ [Colab Notebook of Lumbar_Spine_Degenerative Classification Challenge](Lumbar_Spine_MRI_Analysis.ipynb)
 
 **Galaxies, Quasars, and Stars: Three Class Classification**
 
