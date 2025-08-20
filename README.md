@@ -39,7 +39,7 @@ The paper can be found [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/m
 
 ### Empirical Study
 
-**RSNA 2024 - Lumbar_Spine_Degenerative Classification Challenge**
+**RSNA 2024 - Lumbar Spine Degenerative Classification Challenge**
 
 + [Colab Notebook of Lumbar Spine Degenerative Classification Challenge](https://github.com/sourish-cmi/Jacobi-Prior/blob/main/Lumbar_Spine_MRI_Analysis.ipynb)
   Note: The notebook is a bit heavy; it might take a while to load. You may have to reload/refresh a couple of times.
