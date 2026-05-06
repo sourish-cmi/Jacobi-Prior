@@ -9,21 +9,17 @@ The script in this repo can be freely used and shared as long as the author and 
 
 ## Current Papers:
 
-1. **Jacobi Prior: An Alternate Bayesian Method for Supervised Learning**, By Das, S. and Sardar, S.; [Preprint](https://arxiv.org/abs/2404.11345)
+1. **TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**, By Sardar, S. and Das, S.
+   
+2. **Jacobi Prior: An Alternate Bayesian Method for Supervised Learning**, By Das, S. and Sardar, S.; [Preprint](https://arxiv.org/abs/2404.11345)
+   
+3. **On Bayesian Analysis of Generalized Linear Models using the Jacobian Technique**, By Das, S. and Dey, D.; *The American Statistician*, Vol 60, No 3 (Aug 2006), pp. 264--268  [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/main/1_2006_das_dey.pdf)
 
-This paper can be found here [https://arxiv.org/abs/2404.11345]
 
-2. **TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**, By Sardar, S. and Das, S.
-
-## First Paper:
-
-**On Bayesian Analysis of Generalized Linear Models using the Jacobian Technique**, By Das, S. and Dey, D.; *The American Statistician*, Vol 60, No 3 (Aug 2006), pp. 264--268
-
-The paper can be found [here](https://github.com/sourish-cmi/Jacobi-Prior/blob/main/1_2006_das_dey.pdf)
 
 ## Code for all the papers:
 
-### 1. Code for *Jacobi Prior: An Alternate Bayesian Method for Supervised Learning*
+### 2. Code for *Jacobi Prior: An Alternate Bayesian Method for Supervised Learning*
 
 ### Simulation Study
 
