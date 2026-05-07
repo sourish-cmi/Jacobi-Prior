@@ -3,11 +3,11 @@
 This GitHub repository is for all the analysis, code, data and collaboration on the research for '**Jacobi Prior**'.
 
 
-## Copyright
+### Copyright
 
 The script in this repo can be freely used and shared as long as the author and copyright information in the header remains intact and proper citation of this work is mentioned.
 
-## Current Papers:
+### Papers:
 
 1. **TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**, By Sardar, S. and Das, S.
    
@@ -17,7 +17,9 @@ The script in this repo can be freely used and shared as long as the author and 
 
 
 
-## Code for all the papers:
+## Code:
+
+### 1. Code for *TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices* [Code](https://github.com/shouvik-sardar/TinyBayes)
 
 ### 2. Code for *Jacobi Prior: An Alternate Bayesian Method for Supervised Learning*
 
