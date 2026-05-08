@@ -9,7 +9,7 @@ The script in this repo can be freely used and shared as long as the author and 
 
 ### Papers:
 
-1. **TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**, By Sardar, S. and Das, S.
+1. **TinyBayes: Closed-Form Bayesian Inference via Jacobi Prior for Real-Time Image Classification on Edge Devices**, By Sardar, S. and Das, S. [Preprint](https://arxiv.org/abs/2605.06333)
    
 2. **Jacobi Prior: An Alternate Bayesian Method for Supervised Learning**, By Das, S. and Sardar, S.; [Preprint](https://arxiv.org/abs/2404.11345)
    
